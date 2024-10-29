@@ -88,7 +88,7 @@ export default function Hero() {
               alt=""
               className="glow md:rounded-2xl rounded-[4px] md:scale-100 scale-110"
             />
-            <p className="text-white md:text-[1vw] text-[1.1vw] absolute md:top-[3.7vw] top-[4vw] left-1 md:left-[1vw]">
+            <p className="text-white 2xl:text-[0.8vw] 2xl:w-[17vw] md:text-[1vw] text-[1.1vw] absolute md:top-[3.7vw] top-[4vw] left-1 md:left-[1vw]">
               <Typewriter
                 options={{
                   strings: [
@@ -106,7 +106,7 @@ export default function Hero() {
               alt=""
               className="glow md:rounded-2xl rounded-[4px] "
             />
-            <p className="text-white md:text-[1vw] text-[1.1vw] absolute top-[3.7vw] left-[1vw]">
+            <p className="text-white 2xl:text-[0.8vw] md:text-[1vw] text-[1.1vw] absolute top-[3.7vw] left-[1vw]">
               <Typewriter
                 options={{
                   strings: [
