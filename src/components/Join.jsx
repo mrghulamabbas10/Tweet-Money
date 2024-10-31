@@ -18,7 +18,7 @@ export default function JoinSection() {
         Bringing On-Chain{" "}
       </p>
       <h1 className="text-white md:text-[6vw] text-[5vw] font-semibold md:-translate-y-5 -translate-y-2  text-center animate__fadeInUp wow animate__animated">
-        Interactions to Twitter
+        Interactions to 𝕏
       </h1>
       <Link
         to={""}

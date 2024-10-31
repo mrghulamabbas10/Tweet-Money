@@ -18,8 +18,9 @@ export default function Footer() {
               ABOUT:
             </h3>
             <p className="md:mt-5 mt-3 md:text-[1.4vw] text-[2vw] animate__fadeInUp wow animate__animated">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
+              The core team consists of a lead developer with a team of nine
+              developers, 4 crypto OGs as community and marketing members and
+              the CEO of Coinbureau. All members of the team are KYC:
             </p>
           </div>
           <div className="md:col-span-3 col-span-full">

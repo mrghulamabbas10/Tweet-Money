@@ -54,10 +54,7 @@ export default function TokenMetrics() {
             Token Metrics
           </h1>
           <p className="animate__fadeInUp wow animate__animated">
-            Explore Our Inspirational Journey, Values, and Commitment to
-            Providing
-            <br />
-            Exceptional SaaS Solutions That Empower Your Business
+            The tokenomic breakdown of $TWEET is as follows:
           </p>
         </div>
         <div className="relative" ref={sectionRef}>
@@ -107,8 +104,8 @@ export default function TokenMetrics() {
             Trading Fee
           </h3>
           <p className="font-extralight animate__fadeInUp wow animate__animated">
-            Starting with 0% fee on every trade.  Later on, when we have more
-            volume.
+            Starting with 0% fee on every trade.  Later on, when there is more
+            volume a fee of 0.4% will be added.
           </p>
         </div>
       </div>
@@ -128,7 +125,7 @@ export default function TokenMetrics() {
             <div className="space-y-2">
               <span className="glow-blink bg-[#B7E0D2] rounded-md w-5 h-5 block"></span>
               <h3 className="md:text-[2vw] text-[4vw] animate__fadeInUp wow animate__animated">
-                10% (1m){" "}
+                12% (1.2m)
               </h3>
               <p className="md:text-[1.1vw] text-[2.5vw] animate__fadeInUp wow animate__animated">
                 Team tokens
@@ -148,22 +145,13 @@ export default function TokenMetrics() {
             <div className="space-y-2 w-full">
               <span className="glow-blink bg-[#819BCE] rounded-md w-5 h-5 block"></span>
               <h3 className="md:text-[2vw] text-[4vw] animate__fadeInUp wow animate__animated">
-                5% (500k)
+                10% (1m)
               </h3>
               <p className="md:text-[1.1vw] text-[2.5vw] animate__fadeInUp wow animate__animated">
-                Marketing (not to pay KOLs!)
+                Community Bonus System
               </p>
             </div>
-            <div className="space-y-2">
-              <span className="glow-blink bg-[#076AAC] rounded-md w-5 h-5 block"></span>
-              <h3 className="md:text-[2vw] text-[4vw] animate__fadeInUp wow animate__animated">
-                5% (500k){" "}
-              </h3>
-              <p className="md:text-[1.1vw] text-[2.5vw] animate__fadeInUp wow animate__animated">
-                Community bonus System (regular rewards for
-                competitions/community super stars/ new communities)
-              </p>
-            </div>
+            <div className="space-y-2"></div>
           </div>
         </div>
       </div>

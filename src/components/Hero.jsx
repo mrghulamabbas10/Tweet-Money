@@ -22,7 +22,7 @@ export default function Hero() {
       <h1 className="text-white md:text-[6vw] text-[5vw] font-semibold md:-translate-y-5 -translate-y-2  text-center ">
         <Typewriter
           options={{
-            strings: ["Interactions to Twitter"],
+            strings: ["Interactions to 𝕏"],
             autoStart: true,
             loop: true,
           }}
@@ -40,12 +40,12 @@ export default function Hero() {
             <img
               src="/images/twitte-1.png"
               alt=""
-              className=" md:rounded-2xl rounded-[4px]"
+              className=" md:rounded-2xl rounded-[4px] 2xl:w-[100vw]"
             />
             <p className="text-white md:text-[1vw] text-[1.2vw] absolute md:top-[3.7vw] top-[4vw] left-[1vw]">
               <Typewriter
                 options={{
-                  strings: ["send 50 $TWEET to @elonmusk"],
+                  strings: ["@0xtweetweet send @elonmusk a ☕"],
                   autoStart: true,
                   loop: true,
                 }}
@@ -56,12 +56,12 @@ export default function Hero() {
             <img
               src="/images/twitte-2.png"
               alt=""
-              className=" md:rounded-2xl rounded-[4px]"
+              className=" md:rounded-2xl rounded-[4px] 2xl:w-[100vw]"
             />
             <p className="text-white md:text-[1vw] text-[1.2vw] absolute md:top-[3.7vw] top-[4vw] left-[1vw]">
               <Typewriter
                 options={{
-                  strings: ["buy 1 eth of $TWEET"],
+                  strings: ["@0xtweetweet buy me 1 eth of $TWEET"],
                   autoStart: true,
                   loop: true,
                 }}
@@ -78,7 +78,7 @@ export default function Hero() {
           <img
             src="/images/hero-2.webp"
             alt="hero-2"
-            className="md:w-[30vw] w-[35vw] md:mt-[3vw] mt-[1vw] ml-2 relative z-0 md:-ml-[2vw]"
+            className="md:w-[30vw] w-[35vw] md:mt-[3vw] mt-[1vw] ml-2 relative z-0 md:-ml-[2vw] 2xl:w-[100vw]"
           />
         </div>
         <div className=" col-span-3  text-start space-y-[2vw]">
@@ -86,13 +86,13 @@ export default function Hero() {
             <img
               src="/images/twitte-3.png"
               alt=""
-              className="glow md:rounded-2xl rounded-[4px] md:scale-100 scale-110"
+              className="glow md:rounded-2xl rounded-[4px] md:scale-100 scale-110 2xl:w-[100vw]"
             />
             <p className="text-white 2xl:text-[0.8vw] 2xl:w-[17vw] md:text-[1vw] text-[1.1vw] absolute md:top-[3.7vw] top-[4vw] left-1 md:left-[1vw]">
               <Typewriter
                 options={{
                   strings: [
-                    "Send 100 $USDC to these winners  @adam0x @levizero @altsensei",
+                    "@0xtweetweet Send 100 $USDC to these winners: @adam0x @levizero @altsensei",
                   ],
                   autoStart: true,
                   loop: true,
@@ -104,15 +104,12 @@ export default function Hero() {
             <img
               src="/images/twitte-4.png"
               alt=""
-              className="glow md:rounded-2xl rounded-[4px] "
+              className="glow md:rounded-2xl rounded-[4px] 2xl:w-[100vw]"
             />
-            <p className="text-white 2xl:text-[0.8vw] md:text-[1vw] text-[1.1vw] absolute top-[3.7vw] left-[1vw]">
+            <p className="text-white 2xl:text-[0.8vw] md:text-[1vw] text-[1.1vw] absolute top-[3.7vw] left-[1vw] ">
               <Typewriter
                 options={{
-                  strings: [
-                    `snipe 0.05 eth of 0xaac51ffa380c034453dcb5ca6e4bd02 
-                     1286b48999`,
-                  ],
+                  strings: [`@0xtweetweet buy 10 eth of $DOGE`],
                   autoStart: true,
                   loop: true,
                 }}

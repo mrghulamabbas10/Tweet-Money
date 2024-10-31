@@ -17,43 +17,56 @@ const data = [
     dis: "Buy or Sell any token in a single tweet, let everyone know.",
     linkname: "Start Trading on X",
     linkPath: "",
-    imagePath: "/images/feature (1).webp",
+    imagePath: "/images/feature (6).webp",
   },
   {
     title: "Trade in DM",
     dis: "Snipe and or trade any token directly from X DMs.",
     linkname: "Join Queue",
     linkPath: "",
+    imagePath: "/images/feature (1).webp",
+  },
+  {
+    title: "Transferring money to any  𝕏  handle, & tipping.",
+    dis: "",
+    linkname: "Join Queue",
+    linkPath: "",
     imagePath: "/images/feature (2).webp",
   },
   {
-    title: "Transferring money on x, & tipping.",
-    dis: "Buy or Sell any token in a single tweet, let everyone know.",
+    title: "Funding your $tweet acc with fiat in the dapp",
+    dis: "",
     linkname: "Start Trading on X",
     linkPath: "",
     imagePath: "/images/feature (3).webp",
   },
   {
-    title: "Funding your $tweet acc with fiat in the dapp",
-    dis: "Snipe and or trade any token directly from X DMs.",
-    linkname: "Join Queue",
+    title: "Tweet to burn",
+    dis: "There will be multiple tweet to burn incidents throughout the life of the project. ",
+    linkname: "Start Trading on X",
     linkPath: "",
     imagePath: "/images/feature (4).webp",
   },
-
   {
     title: "Tweet to burn",
-    dis: "Buy or Sell any token in a single tweet, let everyone know.",
+    dis: "There will be multiple tweet to burn incidents throughout the life of the project. ",
     linkname: "Start Trading on X",
     linkPath: "",
-    imagePath: "/images/feature (5).webp",
+    imagePath: "/images/feature (7).png",
   },
   {
     title: "Follow the money",
     dis: "Snipe and or trade any token directly from X DMs.",
-    linkname: "Start Trading on X",
+    linkname: "Join Queue",
     linkPath: "",
-    imagePath: "/images/feature (6).webp",
+    imagePath: "/images/feature (8).png",
+  },
+  {
+    title: "",
+    dis: "",
+    linkname: "SOON..",
+    linkPath: "",
+    imagePath: "",
   },
 ]
 
@@ -118,7 +131,11 @@ export default function OurFeatures() {
                 </Link>
                 <div className="relative">
                   <div className="before:w-[25vw] before:top-[5vw] before:left-[3vw] before:h-[25vw] before:bg-opacity-20 before:-z-1 before:absolute before:rounded-full before:blur-3xl before:bg-[#1C6FFA] before:block">
-                    <img src={data.imagePath} alt={data.title} />
+                    <img
+                      src={data.imagePath}
+                      alt={data.title}
+                      className="w-full rounded-2xl"
+                    />
                   </div>
                 </div>
               </div>
