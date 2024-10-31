@@ -1,24 +1,5 @@
 import React from "react"
 
-const Data = [
-  {
-    title: "Phase 01",
-    des: "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et",
-  },
-  {
-    title: "Phase 02",
-    des: "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et",
-  },
-  {
-    title: "Phase 03",
-    des: "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et",
-  },
-  {
-    title: "Phase 04",
-    des: "Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et",
-  },
-]
-
 export default function OurPlan() {
   return (
     <div className="px-[8vw] mt-[5vw]" id="Roadmap">

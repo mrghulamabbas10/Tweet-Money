@@ -40,13 +40,7 @@ const data = [
     linkPath: "",
     imagePath: "/images/feature (3).webp",
   },
-  {
-    title: "Tweet to burn",
-    dis: "There will be multiple tweet to burn incidents throughout the life of the project. ",
-    linkname: "Start Trading on X",
-    linkPath: "",
-    imagePath: "/images/feature (4).webp",
-  },
+
   {
     title: "Tweet to burn",
     dis: "There will be multiple tweet to burn incidents throughout the life of the project. ",
